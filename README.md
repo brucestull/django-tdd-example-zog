@@ -1,2 +1,3 @@
-# django-tdd-zog
+# Django TDD Example
+
 Django TDD Example
